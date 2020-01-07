@@ -1,0 +1,34 @@
+SOC Design - Policy Definitions
+- Policy: Provides high-level emphasis and direction - broad, but not specific requirements
+    - Mandatory Compliance
+    - Provides Emphasis
+    - Sets Direction
+    - Approved by Management 
+- Standard: Provide a uniform method of support for the policy by describing how or how much of something
+    - Mandatory Compliance
+    - Specifies uniform methods or tools
+- Guideline:
+    - Discretionary Compliance
+    - Suggested actions in absence of Standard
+    - Can be basis for new Standard
+- Procedure
+    - Mandatory Compliance
+    - Step by step instructions
+    - Supports Standard by specifying action
+
+SOC Standards
+Security Operations Standards - Should be deployed alongside policies. Should never be standalone
+- Standards set the parameters and boundaries for policy provisions
+- Most standards are applicable to security operations technology
+    - Incident response facilitation tools
+        - Designed to help incident response team members learn relevant information, divide responsibilites, and notify each other about the status
+        of each task undertaken in accordance with each responsibility
+    - Forensics technology
+        - Forensic tools enable incident response effort members to analyze and archive information gathered during
+        forensics investigations in a manner that proves valid if a court case based on an incident occurs.
+    - Network security monitoring tools
+        - Syntax for creating and documenting network detection rules
+    - Threat intelligence tools
+- These standards should use version control (CONFLUENCE)
+    - How they must be configured
+    - How frequently they must be updated
