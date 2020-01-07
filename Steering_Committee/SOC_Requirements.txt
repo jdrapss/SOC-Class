@@ -1,0 +1,55 @@
+Defining Business Drivers:
+- Loss Prevention capabilities
+- Scale / Efficiency
+    - We want other parts of the organization to leverage our expertise of monitoring and response
+    to avoid duplicating our internal processes, secure design principles
+- Centralization
+    - Aggregating SOC function to a central capability, giving the entire organization a vantage point
+    and replication of successful strategies throughout the enterprise
+- Control
+    - What level of control will the SOC have on IR, intelligence, design, etc.
+- 24/7 Operations
+    
+SOC Requirements:
+- What legal and industry requirements must we meet?
+- PCI DSS - Payment Card Industry Data Security Standard
+    - Consumer Forensics portal will require compliance here
+
+Relevant Policies (Not Security Specific)
+- IT governance policy
+- Mobile Device policy
+- Identity and credential management policy
+- Records management
+- Risk management
+- Personnel management
+- Business Continuity Planning
+
+Business Continuity management
+- Security Operation is a subset of business continuity management
+    - Both focus on critical business and operational processes
+    - Align SOC directives with business continuity
+
+Relevant Security Policies - These security policies must be created during the creation phase of the SOC. In our case, we must define our approach to these policies.
+    - Cybersecurity policy
+    - Incident response policy
+        - Types of incidents 
+        - Incident severity levels and quantification of impact to assess severity
+    - Acceptable use policy for users and customers
+    - Statement of privacy expectation for users and customers
+    - Consent to monitoring statement for users and customers
+    - Security team background check policy
+
+Incident Definition
+- There are incidents defined by US-CERT with reporting timeframes.
+    - https://www.us-cert.gov/government-users/reporting-requirements#tax
+- Policy defines "incident"
+    - A computer security incident is a violation or immeent threat of violation
+    of computer security policies, acceptable use policies, or standard security practices
+        - NIST SP800-61r2
+- Incident categories (types) are defined in policy:
+    - Unauthorized access (includes unauthorized access to data)
+    - Malicious code
+    - Inappropriate use
+    - Denial of Service
+    - Unknown (investigation ongoing)
+    

@@ -1,0 +1,62 @@
+Steering Comittee - Phase 1: Design
+    - Design: Requirements, capabilities, and services offered
+        - Defining our business needs
+Steering Committee - Phase 2: Build
+    - Build: Assure alignment with design objectives
+        - Ensure that our plans in the design phase are implemented affectively
+Steering Committee - Phase 3: Operational Oversight: 
+    - Operational Oversight: Guiding SOC adaptation and performance improvements in response to changing IT requirements and business drivers.
+        - Making the SOC more agile in handling new business drivers such as Mobile Forensics, Threat Intelligence, Security Monitoring
+            - This means having strong, well implemented and well documented policy guidelines, compliance frameworks, etc.
+
+The steering committee will provide input on what they do and do not want in regards to SOC efforts. Normally stakeholders would be legal team, HR, etc.,
+but we manage ourselves internally with minimal approval from executive leadership. Mutual cooperation of stakeholders during feedback and incident response
+will rely heavily on the internally defined organizational units.
+
+- Developing Requirements with Key Stakeholders
+- Steering committee normally consists of stakeholders such as Business unit managers, Legal, HR, etc.
+    - Our SOC should define stakeholders as:
+        - Orginizational Units as Stakeholders:
+            - Policy, Procedure, Governance, Compliance
+            - Technical Leadership (Current and New technical project leadership)
+            - Forensics Proxy (Receiving work from DCO to pass down to SOC analysts as necessary, communicating tickets, background information, necessary equipment, and procedures necessary to assit)
+            - Systems Administration and Network Engineering
+- Must define the following at the SOC level:
+    - Business or Operational Plans
+        - Determining where the SOC currently stands, and what is most needed from a strategy perspective
+            - Maturity in current procedures, automating weaknesses, filling gaps in current areas of concern.
+                - Using Jira to fix specific communication errors (Specific issue types that provide necessary Confluence pages)
+            - Setting specific business drivers to give us a path forward (i.e. Threat Intelligence capabilities, Vulnerability Assessment (Available but needs smoothing))
+    - Internal and External Auditing
+        - Auditing Confluence
+        - Monthly Client Sensor Health Reports
+        - Monthly SOC Alarm Metrics Reports
+        - Policy, Procedure, and Compliance Reports
+            - Are our staff following the mentioned reports, procedures, and compliance frameworks we have implemented?
+            - Updating and enforcing rSOC Policies in 
+                - How can we automate this?
+                - Review updates, changes, current use of policy and procedure often
+                    - Updates to rSOC Incident Reporting proceduers
+    
+    - Strategy documents for legal and regulatory Compliance
+        - What are our strategy documents? Are they located in Confluence?
+    - Compliance frameworks in use?
+        - What are our compliance frameworks (COBIT, NIST, ISO 27000)?
+    - Compromise scenarios
+        - Handling internal and client-facing incidents using public and industry specific standards
+        - Start with any formal risk documentation that is present
+            - If none are present, research risk documentation
+                
+Material Discussed during the Design Phase:
+- Aligning SOC design with business needs is crucial
+    - If our efforts as a SOC are not coordinated with the mission and objectives of the rest of the company,
+    then we will have sub-optimal performance.
+- SOC must have situational awareness of the business
+- Steering committe (Internally-defined organizational units)
+    - Current and new business drivers for the SOC
+        - Do we want a Governance, Risk, and Compliance(GRC) SOC addressing legal requirements, and/or
+        do we want a strong technical SOC that can handle any and all technical challenges. Finding a middle-ground here is important.
+    - Legal Requirements
+    - Security Policies
+    - Organizational Culture
+    
