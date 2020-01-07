@@ -1,0 +1,1 @@
+This repository is for the SOC-Class in DC. All notes and takeaways will be housed in the repo.
